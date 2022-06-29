@@ -1,3 +1,6 @@
+# web sequence diagram
+- https://www.websequencediagrams.com/
+
 # 0.4: New note
 
 ```
